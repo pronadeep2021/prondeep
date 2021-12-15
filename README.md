@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prondeep
+- 👋 Hi, I’m @pronadeep
 - 👀 I’m interested in working with FPGA
 - 🌱 I’m currently learning Zynq SoC
 - 💞️ I’m looking to collaborate on FPGA based projects
